@@ -1,0 +1,1 @@
+# forecast_gold_monthly
